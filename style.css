@@ -1,0 +1,17 @@
+#counter{
+display:block;
+font-size:10em;    
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+#btncounter{
+    text-align: center;
+
+}
+.buttons{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+body{
+    background-color: rgb(35, 214, 220);
+}
